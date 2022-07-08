@@ -1,0 +1,62 @@
+/**************************/
+/*     General Styles     */
+/**************************/
+
+body{
+    margin: 3vh 10vw;
+    background-color: azure;
+
+}
+
+div{
+    margin:3vh 0vw;
+}
+header{
+ background-color: aquamarine;
+ color: black;
+ border-radius: 1rem;
+}
+
+label{
+    display: block;
+    float: left;
+    width: 10vw;
+    font-size: large;
+    background-color:aquamarine;
+    border-radius: 0.5rem;
+    text-align: center;
+}
+
+footer{
+    margin-top: 5vh;
+    text-align: center;
+}
+
+input{
+    border-radius: 1rem;
+    position: relative;
+}
+
+.correcto {
+    border-color: #1ed12d;
+    color: #1ed12d;
+}
+.incorrecto{
+    color: red;
+}
+
+.validacion{
+    display: none;
+}
+
+.validacion_incorrecta{
+    display: block;
+}
+
+.validacion_final{
+    display: none;
+}
+
+.validacion_final_incorrecta{
+    display: block;
+}
