@@ -1,0 +1,69 @@
+/**************************/
+/*     General Styles     */
+/**************************/
+html {
+    font-family:'Courier New', Courier, monospace;
+    background-color:  #fef9ef ;
+    text-align: justify;
+}
+
+body{
+    margin: 3vh 10vw;
+}
+
+
+h1{
+    color: #227c9d;
+    font: bold;
+}
+
+h2{
+    color: #17c3b2;
+    font: bold;
+}
+
+.personal{
+    margin-left: 4vw;
+}
+
+span.enlace{
+    color: orange;
+    text-decoration: underline;
+}
+.negrita{
+    font-weight: bold;
+}
+
+.cursiva{
+    font-style: italic;
+}
+
+.table{
+    align-items:center ;
+}
+
+table{
+    margin: auto;
+}
+
+thead{
+    font-weight: bold;
+    font-size: x-large;
+    text-align: center;
+    padding: 1vh 1vw;
+}
+
+td, th{
+    padding: 1vh 1vw;
+}
+.center{
+    text-align: center;
+}
+
+.blanco{
+    background-color: #fef9ef;
+}
+
+.gris{
+    background-color: darkgrey;
+}

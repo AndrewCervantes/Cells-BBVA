@@ -1,0 +1,35 @@
+/**************************/
+/*     General Styles     */
+/**************************/
+html {
+    font-family:'Courier New', Courier, monospace;
+    background-color:  #fef9ef ;
+}
+
+body{
+    margin: 3vh 10vw;
+}
+
+
+h1{
+    color: #227c9d;
+    font: bold;
+}
+
+h2{
+    color: #17c3b2;
+    font: bold;
+}
+
+.personal{
+    margin-left: 4vw;
+}
+
+span.enlace{
+    color: blue;
+    text-decoration: underline;
+}
+.font-cv{
+    font-weight: bold;
+    font-style: italic;
+}

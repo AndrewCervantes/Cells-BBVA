@@ -1,0 +1,11 @@
+/**************************/
+/*     General Styles     */
+/**************************/
+html {
+    font-family:'Courier New', Courier, monospace;
+    background-color:  #fef9ef ;
+}
+
+body{
+    margin: 3vh 10vw;
+}
